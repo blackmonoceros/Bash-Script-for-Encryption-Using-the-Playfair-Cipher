@@ -38,4 +38,4 @@ The playfair_encrypt function combines all the steps to encrypt the plaintext us
 Example:
 
 
-For the key CIPHER and plaintext EXAMPLE TEXT, the script will output the encrypted text according to the Playfair cipher rules...
+For the key CIPHER and plaintext EXAMPLE TEXT, the script will output the encrypted text according to the Playfair cipher rules.
